@@ -7,5 +7,5 @@
 
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=xxxz1108)](https://solved.ac/xxxz1108) <br/>
 
-### 노션
-https://lizard-gosling-6b1.notion.site/Education-8dde0b870d404c749abf60942284f1bb
+### ✌️노션
+> https://lizard-gosling-6b1.notion.site/Education-8dde0b870d404c749abf60942284f1bb
