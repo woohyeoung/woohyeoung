@@ -20,7 +20,7 @@
 
 ### 🛠 IDE tools available
 
-  <img align="right" src="https://github-readme-stats.vercel.app/api?username=woohyeoung&theme=react" />
+  <img align="right" src="https://github-readme-stats.vercel.app/api?username=woohyeoung&theme=react" width="380px"/>
 
   [![](https://img.shields.io/badge/EclipseIDE-2C2255?style=flat&logo=EclipseIDE&logoColor=white)]()
   [![](https://img.shields.io/badge/VisualStudioCode-007ACC?style=flat&logo=VisualStudioCode&logoColor=white)]()
