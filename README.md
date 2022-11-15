@@ -38,8 +38,7 @@
   더존비즈온 2022.08 ~
 </p>
 
-<!-- 
-#### 💻 Algorithm Repository
-[![](http://mazassumnida.wtf/api/v2/generate_badge?boj=xxxz1108)](https://solved.ac/xxxz1108) -->
+### 💻 Algorithm
+[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=xxxz1108)](https://solved.ac/xxxz1108) <br/>
 
 <!-- ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&text=%20%20%20&height=300&fontSize=80) -->
