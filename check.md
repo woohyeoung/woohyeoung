@@ -1,11 +1,7 @@
 <div align="center"> 
   
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&text=%20WooHyeoung%20%20&height=300&fontSize=80)
-  
-### 🔨 Stack
-<p>
 
-</p>
 
 ### 🛠 IDE tools available
 <p>
